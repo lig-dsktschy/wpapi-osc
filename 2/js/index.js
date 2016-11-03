@@ -2,7 +2,6 @@
 var ctx, oscList, freqList;
 oscList = [];
 freqList = [
-    130.81,
     261.63,
     466.16,
     783.99,
